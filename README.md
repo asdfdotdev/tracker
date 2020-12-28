@@ -1,5 +1,9 @@
 # Flickerbox Tracker
 
+![Unit Tests](https://github.com/asdfdotdev/tracker/workflows/Unit%20Tests/badge.svg)
+[![codecov](https://codecov.io/gh/asdfdotdev/tracker/branch/main/graph/badge.svg)](https://codecov.io/gh/asdfdotdev/tracker)
+[![downloads](https://img.shields.io/npm/dm/@flickerbox/tracker)](https://www.npmjs.com/package/@flickerbox/tracker)
+
 Tracker endeavors to be a convenient packager for your event tracking needs no matter what analytics platform you use. It includes "channels" for Google Analytics, Google Tag Manager, and Console output (helpful for debugging) by default and it's easy to add your own for other services.
 
 ## Overview
